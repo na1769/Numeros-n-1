@@ -1,0 +1,17 @@
+body{
+background-color: rgba(84, 208, 172,0.45);
+background-position: center;
+
+}
+
+.login_div1, .login_div2{
+background-color: salmon;
+padding: 10px;
+float: none;
+border-radius: 17px;
+}
+
+#player1_name, #player2_name{
+display: inline-block;
+margin-left: 20px;
+}
